@@ -15,6 +15,7 @@
  */
 
 /* Includes ---------------------------------------------------------------- */
+#include <Arduino.h>
 #include <Motion_test_inferencing.h>
 #include <Arduino_LSM9DS1.h> //Click here to get the library: https://www.arduino.cc/reference/en/libraries/arduino_lsm9ds1/
 

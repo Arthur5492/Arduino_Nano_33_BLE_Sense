@@ -1,3 +1,0 @@
-[submodule "include/tflite-micro-arduino-examples"]
-	path = include/tflite-micro-arduino-examples
-	url = https://github.com/tensorflow/tflite-micro-arduino-examples.git
